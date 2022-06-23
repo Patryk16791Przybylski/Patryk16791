@@ -1,7 +1,7 @@
-public class bonjour {
+public class aloha {
 
     public static void main(String[] args) {
-        System.out.println("Bonjour le Monde!");
+        System.out.println("Aloha, Honua");
     }
 
 }
